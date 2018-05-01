@@ -1,0 +1,6 @@
+#!C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\python.exe
+
+from cx_Freeze import main
+
+main()
+

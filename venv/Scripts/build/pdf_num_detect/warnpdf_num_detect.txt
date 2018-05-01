@@ -1,0 +1,182 @@
+missing module named 'win32com.gen_py' - imported by win32com, c:\users\lixib\desktop\hiwi_job\code\2018.04.23\venv\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_win32comgenpy.py
+missing module named pyimod03_importers - imported by c:\users\lixib\desktop\hiwi_job\code\2018.04.23\venv\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_pkgres.py
+missing module named 'multiprocessing.popen_fork' - imported by c:\users\lixib\desktop\hiwi_job\code\2018.04.23\venv\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named 'multiprocessing.popen_spawn_win32' - imported by c:\users\lixib\desktop\hiwi_job\code\2018.04.23\venv\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named 'multiprocessing.spawn' - imported by c:\users\lixib\desktop\hiwi_job\code\2018.04.23\venv\lib\site-packages\PyInstaller\loader\rthooks\pyi_rth_multiprocessing.py
+missing module named resource - imported by posix, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named posix - imported by os, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named _datetime - imported by future.backports.datetime, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named macresource - imported by MacOS, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named MacOS - imported by platform, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named _pybsddb - imported by bsddb, bsddb.db, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named bsddb3 - imported by bsddb, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named _curses - imported by curses, curses.has_key, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named cffi - imported by scipy._lib._ccallback, PIL.Image, PIL.PyAccess, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, PIL.ImageTk
+missing module named scipy.sparse.coo_matrix - imported by scipy.sparse, scipy.sparse.data, scipy.integrate._bvp, scipy.optimize._numdiff, scipy.integrate._ivp.common
+missing module named scipy.special.xlogy - imported by scipy.special, scipy.interpolate.rbf
+missing module named numpy.double - imported by numpy, scipy.optimize.nnls
+missing module named numpy.float64 - imported by numpy, scipy.optimize.lbfgsb
+missing module named numpy.sign - imported by numpy, scipy.linalg.matfuncs, scipy.optimize.zeros
+missing module named numpy.inexact - imported by numpy, scipy.linalg.decomp, scipy.special.basic, scipy.optimize.minpack
+missing module named numpy.greater - imported by numpy, scipy.optimize.minpack
+missing module named sksparse - imported by scipy.optimize._trustregion_constr.projections
+missing module named scikits - imported by scipy.sparse.linalg.dsolve.linsolve
+missing module named scipy.spatial.cKDTree - imported by scipy.spatial, scipy.interpolate.ndgriddata
+missing module named 'matplotlib.collections' - imported by scipy.spatial._plotutils
+missing module named matplotlib - imported by scipy.spatial._plotutils
+missing module named scipy.special.gammaln - imported by scipy.special, scipy.special.spfun_stats, scipy.integrate.quadrature
+missing module named numpy.less - imported by numpy, scipy.special.basic
+missing module named numpy.arccos - imported by numpy, scipy.linalg.decomp_svd, scipy.special.orthogonal
+missing module named scipy.special.airy - imported by scipy.special, scipy.special.orthogonal
+missing module named numpy.single - imported by numpy, scipy.linalg.decomp_schur, scipy.linalg.matfuncs
+missing module named numpy.conjugate - imported by numpy, scipy.linalg.matfuncs
+missing module named numpy.logical_not - imported by numpy, scipy.linalg.matfuncs
+missing module named scipy.linalg.qr_insert - imported by scipy.linalg, scipy.sparse.linalg.isolve._gcrotmk
+missing module named numpy.conj - imported by numpy, scipy.linalg.decomp
+missing module named numpy.arcsin - imported by numpy, scipy.linalg.decomp_svd
+missing module named scipy.linalg._clapack - imported by scipy.linalg, scipy.linalg.lapack
+missing module named scipy.linalg._cblas - imported by scipy.linalg, scipy.linalg.blas
+missing module named os2 - imported by os, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named _emx_link - imported by os, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named ce - imported by os, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named riscos - imported by os, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named riscospath - imported by os, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named riscosenviron - imported by os, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named argcomplete - imported by _pytest._argcomplete, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named zope - imported by _pytest.unittest, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named twisted - imported by _pytest.unittest, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+runtime module named six.moves - imported by _pytest.mark.structures, _pytest.python_api, more_itertools.more, more_itertools.recipes, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named six.moves.zip - imported by six.moves, _pytest.python_api, more_itertools.more, more_itertools.recipes, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named six.moves.filterfalse - imported by six.moves, _pytest.python_api, more_itertools.recipes, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named six.moves.filter - imported by six.moves, more_itertools.more, more_itertools.recipes, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named six.moves.map - imported by six.moves, _pytest.mark.structures, more_itertools.more, more_itertools.recipes, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named six.moves.range - imported by six.moves, more_itertools.more, more_itertools.recipes, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.eye - imported by numpy, numpy.core.numeric, scipy.linalg.decomp, scipy.interpolate._pade, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, scipy.optimize.optimize, scipy.optimize.minpack
+missing module named numpy.histogramdd - imported by numpy, numpy.lib.twodim_base, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.ndarray - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.amax - imported by numpy, numpy.ma.core, scipy.linalg.matfuncs, scipy.misc.pilutil, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.amin - imported by numpy, numpy.ma.core, scipy.misc.pilutil, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.iscomplexobj - imported by numpy, numpy.ma.core, scipy.linalg.decomp, scipy.linalg._decomp_ldl, scipy.misc.pilutil, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.bool_ - imported by numpy, numpy.ma.core, numpy.ma.mrecords, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.array - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib, scipy.misc.common, scipy.linalg.decomp, scipy.linalg.decomp_schur, scipy.sparse.linalg.isolve.utils, scipy.interpolate.interpolate, scipy.interpolate._fitpack_impl, scipy.interpolate.fitpack2, scipy.misc.pilutil, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, scipy.integrate._ode, scipy.optimize.lbfgsb, scipy.optimize.tnc, scipy.optimize.slsqp, scipy.optimize.minpack
+missing module named numpy.expand_dims - imported by numpy, numpy.ma.core, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.dtype - imported by numpy, numpy.ma.mrecords, numpy.ctypeslib, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, scipy.optimize.minpack
+missing module named numpy.recarray - imported by numpy, numpy.ma.mrecords, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named lzma - imported by numpy.lib._datasource, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'urllib.parse' - imported by numpy.lib._datasource, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, _pytest.pastebin
+missing module named 'urllib.request' - imported by numpy.lib._datasource, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, _pytest.pastebin
+missing module named 'urllib.error' - imported by numpy.lib._datasource, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.single - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.double - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.csingle - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.cdouble - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.inexact - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.complexfloating - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.add - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.maximum - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.geterrobj - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.longdouble - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.intp - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.object_ - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.divide - imported by numpy.core, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.lib.triu - imported by numpy.lib, numpy.linalg.linalg, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.conjugate - imported by numpy.core, numpy.fft.fftpack, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.sqrt - imported by numpy.core, numpy.linalg.linalg, numpy.fft.fftpack, scipy.sparse.linalg._norm, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.integer - imported by numpy.core, numpy.fft.helper, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.random.rand - imported by numpy.random, scipy, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.random.randn - imported by numpy.random, scipy, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.float32 - imported by numpy.core, numpy.testing.nose_tools.utils, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.float64 - imported by numpy.core, numpy.testing.nose_tools.utils, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.signbit - imported by numpy.core, numpy.testing.nose_tools.utils, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.lib.iscomplexobj - imported by numpy.lib, numpy.testing.nose_tools.utils, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.lib.real - imported by numpy.lib, numpy.testing.nose_tools.utils, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.lib.imag - imported by numpy.lib, numpy.testing.nose_tools.utils, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.core.number - imported by numpy.core, numpy.testing.nose_tools.utils, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named nose - imported by numpy.testing.nose_tools.utils, numpy.testing.nose_tools.decorators, numpy.testing.nose_tools.noseclasses, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'nose.util' - imported by numpy.testing.nose_tools.noseclasses, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'nose.plugins' - imported by numpy.testing.nose_tools.noseclasses, numpy.testing.nose_tools.nosetester, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named _xmlrpclib - imported by xmlrpclib, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named Numeric - imported by numpy.distutils.system_info, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numarray - imported by numpy.distutils.system_info, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named __svn_version__ - imported by numpy.f2py.__version__, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named setuptools.extern.six - imported by setuptools.extern, setuptools.monkey, setuptools.dist, setuptools.py33compat, setuptools.config, setuptools.command.easy_install, setuptools.sandbox, setuptools.py27compat, setuptools.package_index, setuptools.wheel, setuptools.command.egg_info, setuptools.command.sdist, setuptools.command.bdist_egg, setuptools.unicode_utils, setuptools.glob, setuptools.command.develop, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'setuptools.extern.six.moves' - imported by setuptools.dist, setuptools.py33compat, setuptools.command.easy_install, setuptools.sandbox, setuptools.command.setopt, setuptools.package_index, setuptools.ssl_support, setuptools.command.egg_info, setuptools.command.py36compat, setuptools.namespaces, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, setuptools.msvc
+missing module named 'setuptools.extern.packaging.version' - imported by setuptools.msvc
+missing module named backports - imported by setuptools.ssl_support, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'backports.ssl_match_hostname' - imported by setuptools.ssl_support, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named wincertstore - imported by setuptools.ssl_support, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named _manylinux - imported by setuptools.pep425tags, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'setuptools.extern.six' - imported by setuptools, setuptools.extension, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named setuptools.extern.packaging - imported by setuptools.extern, setuptools.dist, setuptools.command.egg_info, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.testing.jiffies - imported by numpy.testing, numpy.f2py.f2py_testing, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.testing.memusage - imported by numpy.testing, numpy.f2py.f2py_testing, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy_distutils - imported by numpy.f2py.diagnose, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'numpy_distutils.command' - imported by numpy.f2py.diagnose, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'numpy_distutils.fcompiler' - imported by numpy.f2py.diagnose, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'numpy_distutils.cpuinfo' - imported by numpy.f2py.diagnose, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named configparser - imported by setuptools.py36compat, numpy.distutils.system_info, numpy.distutils.npy_pkg_config, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named pathlib - imported by numpy.compat.py3k, PIL.Image, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, py._path.common
+missing module named numpy.linalg.inv - imported by numpy.linalg, numpy.matrixlib.defmatrix, numpy.lib.polynomial, scipy.linalg._solvers, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named numpy.lib.i0 - imported by numpy.lib, numpy.dual, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named _thread.RLock - imported by _thread, pkg_resources._vendor.pyparsing
+missing module named _thread.get_ident - imported by _thread, future.backports.misc, numpy.core.arrayprint, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named reprlib.recursive_repr - imported by reprlib, future.backports.misc, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'test.support' - imported by future.moves.test.support, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named dbm - imported by future.standard_library, future.moves.dbm, whichdb, anydbm, future.moves.dbm.ndbm, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'dbm.dumb' - imported by future.moves.dbm.dumb, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'dbm.gnu' - imported by future.moves.dbm.gnu, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named gdbm - imported by anydbm, future.moves.dbm.gnu, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'dbm.ndbm' - imported by future.moves.dbm.ndbm, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named builtins.bool - imported by builtins, numpy.core.numerictypes, numpy.lib._iotools, numpy, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named builtins.float - imported by builtins, numpy.core.numerictypes, numpy.lib._iotools, numpy, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named builtins.complex - imported by builtins, numpy.core.numerictypes, numpy.lib._iotools, numpy, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named winreg.OpenKeyEx - imported by winreg, platform, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named winreg.QueryValueEx - imported by winreg, platform, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named winreg.CloseKey - imported by winreg, platform, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named winreg.HKEY_LOCAL_MACHINE - imported by winreg, platform, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named gestalt - imported by platform, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named java - imported by platform, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'java.lang' - imported by platform, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, xml.sax._exceptions
+missing module named 'org.python' - imported by pickle, setuptools.sandbox, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, xml.sax
+missing module named vms_lib - imported by platform, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named Carbon - imported by plistlib, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'Carbon.Files' - imported by plistlib, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'Carbon.File' - imported by plistlib, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named _xmlplus - imported by xml, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named rourl2path - imported by urllib, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named SOCKS - imported by ftplib, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named termios - imported by getpass, tty, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, py._io.terminalwriter
+missing module named EasyDialogs - imported by getpass, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named _scproxy - imported by urllib, future.backports.urllib.request, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named _imp - imported by pkg_resources, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, pkg_resources._vendor.packaging.requirements
+missing module named 'importlib.machinery' - imported by numpy.compat.py3k, pkg_resources, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named grp - imported by shutil, tarfile, distutils.archive_util, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, py._path.local
+missing module named _sysconfigdata - imported by distutils.sysconfig, sysconfig, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named apipkg - imported by py, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named py.process - imported by py, py._path.svnurl
+missing module named py.path - imported by py, py._path.svnurl
+missing module named enum - imported by _pytest.compat, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named pwd - imported by posixpath, getpass, shutil, tarfile, webbrowser, distutils.util, distutils.archive_util, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, py._path.local
+missing module named readline - imported by cmd, pdb, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, _pytest.capture
+missing module named org - imported by copy, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named fcntl - imported by tempfile, subprocess, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, py._io.terminalwriter
+missing module named ordereddict - imported by funcsigs, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py, pkg_resources._vendor.pyparsing
+missing module named 'py.io' - imported by _pytest.compat, _pytest.python, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named syslog - imported by py._log.log
+missing module named 'py.builtin' - imported by py._io.terminalwriter
+missing module named psutil - imported by scipy._lib._testutils, C:\Users\lixib\Desktop\Hiwi_job\Code\2018.04.23\venv\Scripts\pdf_num_detect.py
+missing module named ImageFilter - imported by scipy.misc.pilutil
+missing module named Image - imported by scipy.misc.pilutil
+missing module named olefile - imported by PIL.MicImagePlugin, PIL.FpxImagePlugin
+missing module named 'PySide.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt4.QtCore' - imported by PIL.ImageQt
+missing module named 'PyQt5.QtCore' - imported by PIL.ImageQt
+missing module named pathlib2 - imported by PIL.Image
