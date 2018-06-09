@@ -21,8 +21,11 @@ http://docs.wand-py.org/en/0.4.4/guide/install.html#install-imagemagick-on-windo
 http://ftp.icm.edu.pl/packages/ImageMagick/binaries/
 
 Windows 32-bit
+
 ImageMagick-6.9.3-1-Q16-x86-dll.exe
+
 Windows 64-bit
+
 ImageMagick-6.9.3-1-Q16-x64-dll.exe
 
 # Generation of executable file
