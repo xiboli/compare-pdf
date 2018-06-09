@@ -1,9 +1,13 @@
 # compare-pdf
 This compare-pdf project is a small project which based on the requirement of our Institute.
+
 In our Institute, we have different versions of scripts and those were editted by a lot of scientific Assistants. Then we need to find the difference between two script files and return the page number. In the beginning, this is a part of my work as a student assistant. Everytime I compare it artificially and it costs me too much times. Sometimes I even skip some small differences. This is so awful and I decide to use my python knowledge to solve this problem.
+
 Python is a programming language, which is wildly used in computer vision, deep learning and web crawler. Because of its simplicity and the usability, this language is my favorite language and I also use it to write many small programs. Python has plenty of libraries including PIL, wand and numpy, which provides the posibility for me, to bulid a prototype of pdf-compare program. In the following I will introduce some libraries I have used and upload some links for each of you to download those libraries.
+
 # coding environment
 Integrated Developer Environments (IDEs): JetBrains PyCharm Edu 2018.1 x64
+
 Third-party Libraries:
 1. Wand 0.4.4
 Installation Tutorial: ImageMagick on Windows
