@@ -18,7 +18,7 @@ def compare(pdf_original_RGB, pdf_edited_RGB):
     return count
 
 print('begin to compare the jpg files  ')
-print('input as the root file name "C://Users//lixib//Desktop//Hiwi_job//Code//2018.04.23//pdf_jpg" ')
+print('input as the root file name "C://2018.04.23//pdf_jpg" ')
 name = input("What is the root file of pdf_jpg ")
 page = input("please input page numbers of pdf ")
 page = int(page)
